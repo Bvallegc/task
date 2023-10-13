@@ -1,16 +1,3 @@
-# task_manager2
+# Task_manager
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This flutter application consist of a task_manager. It contains a navigation_rail from which you can switch to a pending_actions tab to a completed actions tab. The tasks can be added with a time and date when they have to be completed. Once you have completed a task you move it to the completed section by checking the box_otline icon. A completed action can be moved back to pending_actions tab if necessary.
